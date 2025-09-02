@@ -153,7 +153,7 @@ const [showIbrahimi,setShowIbrahimi]=React.useState(false);
       </Box>
             <Box sx={{marginTop:"5%",display:"flex",flexDirection:"column",gap:"1rem",justifyContent:"center",alignItems:"center"}}>
         <Typography sx={{color:"#005073",textAlign:"center",fontFamily:"Inter",fontSize:{lg:"18px",md:"12px",xs:"12px",sm:"12px"},width:"75%",fontWeight:400}}>
-        Marham Hospital(IFFAT ANWAR MEDICAL COMPLEX,LAHORE)
+        Ibrahimi Group
         </Typography>
 
         <Link href="https://github.com/fatimazulfiqar529/demo-website.git">
